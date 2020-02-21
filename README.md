@@ -1,4 +1,4 @@
-VBA Macros that I made to ease my job at PwC. 
+VBA Macros.
 
 Merger merges the content of cells into the higest row or first column.
 
